@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Haifeng Zhang"
   avatar           : "profile.jpeg"
-  bio              : "PhD in Computer Scientist"
-  location         : "Pittsburgh"
-  employer         :
+  bio              : "PhD in Computer Science"
+  location         : "Pittsburgh, PA"
+  employer         : "Carnegie Mellon University"
   googlescholar    : "https://scholar.google.com/citations?user=EKHh9f4AAAAJ&hl=en"
   email            : "haifeng1@andrew.cmu.edu"
   uri              :
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/haifeng-zhang-b8ba5744"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -112,7 +112,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
