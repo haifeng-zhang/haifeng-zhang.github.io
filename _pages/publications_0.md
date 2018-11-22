@@ -40,3 +40,13 @@ Workshop Papers
 articles. Academy of Management (AOM), 2018.
 * H. Zhang, Y. Vorobeychik, J. Letchford, and K. Lakkaraju. Predicting rooftop solar adoption using agent-based modeling. AAAI Fall Symposium on Energy Market Prediction, 2014.
 
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
