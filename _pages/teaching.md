@@ -12,6 +12,6 @@ Instructor / Guest Lecturer, Interactive Data Science (graduate level, Spring 20
 
 ## State University of New York at New Paltz
 ---
-Teaching Assistant & Lab Instructor, multiple undergraduate computer science courses including discrete math, data structures, computer systems and compiler design (Fall 2011; Spring 2012)
+Teaching Assistant & Lab Instructor, Discrete Math, Data Structures, Computer Systems and Compiler Design (undergraduate level, Fall 2011&Spring 2012)
 
 
