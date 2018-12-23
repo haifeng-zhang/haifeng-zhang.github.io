@@ -27,3 +27,4 @@ Thesis: An Agent-Based Laboratory in Credit Card Market
 ### College of Economics and Management, Taiyuan University of Technology, 2003-2007 
 ---
 B.S in Economics
+

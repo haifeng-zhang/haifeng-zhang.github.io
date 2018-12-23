@@ -58,5 +58,14 @@ author_profile: true
 * The Conference on Uncertainty in Artificial Intelligence (UAI)
 * International Conference on Intelligent Robots and Systems (IROS)
 
+## HONORS AND AWARDS
+* Best Paper Award Finalist (<5/1000), AAMAS, May 2015
+* Student Travel Awards: AAAI 2016, AAMAS 2015
+* Outstanding Graduate, SUNY New Paltz, May 2012
+* Teaching Scholarship (as Master student), SUNY New Paltz, August 2011-May 2012
+* Campus Auxiliary Services Scholarship, SUNY New Paltz, February 2011
+* Outstanding New Employee, China Merchants Bank (Taiyuan), May 2008
+* National Scholarship, Taiyuan University of Technology, February 2006
+
 
 

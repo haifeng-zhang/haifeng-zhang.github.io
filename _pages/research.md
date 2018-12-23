@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 I conduct research in three streams. The first stream centers around understanding the dynamic evolution of online open collaborations. I apply advanced research methods such as time-series clustering and simultaneous equations to study temporal patterns and recursive relationships between articles and editors in the development of Wikipedia articles. The second stream focuses on developing a computational theory of online open collaboration using agent-based modeling. The model is grounded in a comprehensive review of Wikipedia collaboration research and will be used to simulate editing dynamics and examine the impact of anti-vandalism tools in Wikipedia collaboration. The third stream is my Ph.D. dissertation research, which involved modeling and predicting technology diffusion through a novel machine learning approach and algorithmically optimizing related marketing strategies in the solar panel industry.
 
-## Unpacking the Dynamic Evolution of Wikipedia Collaboration
+## Stream 1: Unpacking the Dynamic Evolution of Wikipedia Collaboration
 Online open collaboration systems like Wikipedia are complex socio-technical systems, where editors and artifacts interact and coevolve. In order to fully understanding the processes and mechanisms behind the successes and failures of Wikipedia collaboration, we need to go beyond static, cross-sectional studies and examine dynamic, recursive relationships.  
 
 **Mining and predicting dynamic evolution of Wikipedia articles**
@@ -19,7 +19,7 @@ This work examines the dynamic change in the quality of Wikipedia articles to an
 
 Prior studies have often examined the impact of editors on article quality or vice versa. In this paper, we argue that the recursive relationship between the two, i.e., between article quality and the number of active editors, needs to be accounted for, in order to fully understand the dynamics and co-evolution between the two. We sampled 2,466 Wikipedia articles that were Good Article nominees and extracted monthly observations of quality and editor activities. We run simultaneous equations to model the reciprocal effects between quality and editors and included instrumental variables to address endogeneity. This study has three takeaways: 1) consistent with prior literature, high article quality attracted more active editors; 2) additional factors such as nomination events and search interests also attracted more editors to contribute to articles; 3) contrary to prior beliefs, being affiliated with WikiProjects reduced, instead of increased, the number of editors, and  increases in the number of editors decreased, rather than increased, article quality. 
 
-## Developing a Computational Theory of Online Open Collaboration
+## Stream 2: Developing a Computational Theory of Online Open Collaboration
 In a complex socio-technical system like Wikipedia, editor behaviors are influenced by many factors such as article artifacts, other editors, tools, and governing policies. The design and management of such systems are often challenging, with small changes made to parts of the system can interact with other factors and cause unintended consequences. In this project, our goal is to develop a computational theory of online collaboration by integrating various theories and empirical findings into an agent-based model. 
 
 **A comprehensive review of Wikipedia collaboration research**
@@ -30,7 +30,7 @@ To ground our model, we first conducted a comprehensive review of empirical rese
 
 Wikipedia has experienced a slow but steady decline in editor contribution since 2007. One speculated the reason for the decline is the unfriendly environment for newcomers who are more likely to be reverted, particularly due to the use of semi-automated tools to fight vandalism. While the impact of these semi-automated tools remains an open question, their design requires careful consideration of some critical trade-offs. For example, how should the task of vandal fighting be divided between human editors and tools? What criteria should be built into vandal detection algorithms to balance between type I and type II errors? How should the algorithms be customized to learn and adapt to individual editor behaviors? To answer these questions, we are building an agent-based model to simulate editors' activities and the process of article creation and maintenance.
 
-## Modeling Innovation Diffusion and Algorithmic Marketing
+## Stream 3: Modeling Innovation Diffusion and Algorithmic Marketing
 Agent-based modeling has become the new paradigm to model innovation diffusion. A review of agent-based models (ABMs) of innovation diffusion revealed that few ABMs were calibrated properly, validated rigorously, and developed for prediction purpose. In my Ph.D. dissertation, I explored the use of machine learning techniques to harvest insights from large-scale data to ground an agent-based model to study the diffusion of residential solar panels. Computational diffusion models also make it possible that marketing decisions can be augmented or even automated by intelligent algorithms. My thesis also contributed a number of optimization algorithms in various marketing settings.
 
 **A Review of Empirically-Grounded ABMs of Innovation Diffusion**
