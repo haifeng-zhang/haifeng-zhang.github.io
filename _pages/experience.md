@@ -32,7 +32,8 @@ author_profile: true
 * International Workshop on the Internet of Agents (IoA '16)
 
 ### Program Committee
-* AAAI Conference on Artificial Intelligence (AAAI'19);
+* AAAI Conference on Artificial Intelligence (AAAI'19)
+* International Joint Conferences on Artificial Intelligence (IJCAI'19)
 * Conference on Complex Systems 2017, 2018 (CCS '17, 18)
 * International Conference on Complex Systems 2018 (ICCS '18)
 * International Workshop on the Internet of Agents (IoA '17)
