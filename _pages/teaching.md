@@ -15,5 +15,5 @@ Designed, advised and graded a course project that must use Wikipedia data
 ### State University of New York at New Paltz
 ---
 Teaching Assistant & Lab Instructor, Discrete Math, Data Structures, Computer Systems and Compiler Design (undergraduate level, Fall 2011&Spring 2012)
-
+ 
 
