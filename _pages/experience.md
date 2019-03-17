@@ -8,7 +8,7 @@ author_profile: true
 ## EMPLOYMENT
 * **School of Computer Science, Carnegie Mellon University, Mar. 2017-Present**
 
-  Postdoctoral Fellow, Human-Computer Interaction Institute (Supervisors: Yuqing Ren & Robert E. Kraut)
+  Postdoctoral Fellow, Human-Computer Interaction Institute (Supervisors: Robert E. Kraut and Yuqing Ren)
 
 * **School of Engineering, Vanderbilt University, Aug. 2012-Feb. 2017**
 
