@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Papers
 ---
-* H. Zhang, Y. Ren and R. Kraut. Mining and predicting temporal patterns in the quality evolution of Wikipedia articles. **Information Systems Research**, under review. 
+* H. Zhang, Y. Ren and R. Kraut. Mining and predicting temporal patterns in the quality evolution of Wikipedia articles. **Information Systems Research**, in preparation for 2nd round review. 
 * H. Zhang, Y. Ren, R. Kraut and E. Costa. How Did They Build the Free Online Encyclopedia: A Behavioral Review of Wikipedia Editor Collaboration. Under final preparation to be submitted to **ACM Computing Surveys**.
 * H. Zhang, Y. Ren and R. Kraut. Deciphering the recursive relationships between quality and crowd size in online open collaboration. _Work in Progress_.
 * H. Zhang, Y. Ren and R. Kraut. Unpacking the impact of anti-vandalism tools on Wikipedia collaboration: an agent-based analysis. _Work in Progress_.
