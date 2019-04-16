@@ -39,25 +39,27 @@ author_profile: true
 * International Workshop on the Internet of Agents (IoA '17)
 
 ### Journal Reviewer
+* Artificial Intelligence Review
+* Transactions on Mobile Computing
+* ACM Transactions on Social Computing
 * Information Systems Research
 * Organization Science
 * Information Systems
 * Intelligent Systems in Accounting, Finance and Management, Simulation Modelling Practice and Theory
 * Social Science Computer Review
 * Ecological Economics
-* Artificial Intelligence Review
-* Transactions on Mobile Computing
 
 ### Conference Reviewer    
+* AAAI Conference on Artificial Intelligence (AAAI)
+* International Joint Conferences on Artificial Intelligence (IJCAI)
+* International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
 * ACM CHI Conference on Human Factors in Computing Systems (CHI)
 * ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)
-* International Conference on Information Systems (ICIS)                   
-* Hawaii International Conference on System Sciences (HICSS)
-* International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
-* AAAI Conference on Artificial Intelligence (AAAI)
 * ACM conference on Economics and Computation (EC)
 * The Conference on Uncertainty in Artificial Intelligence (UAI)
 * International Conference on Intelligent Robots and Systems (IROS)
+* International Conference on Information Systems (ICIS)                   
+* Hawaii International Conference on System Sciences (HICSS)
 
 ## HONORS AND AWARDS
 * Best Paper Award Finalist (<5/1000), AAMAS, May 2015
