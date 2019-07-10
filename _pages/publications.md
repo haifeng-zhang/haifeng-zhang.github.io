@@ -26,12 +26,18 @@ author_profile: true
 * Zhang, H., Ren, Y. and Kraut, R. (2018). Deciphering the recursive relationships between quality and crowd size in online open collaboration. **Workshop on Information Systems and Economics (WISE)**, 6 pages.
 * Zhang, H., Ren, Y. and Kraut, R. (2018). Mining and predicting temporal patterns in the quality evolution of Wikipedia articles. **Academy of Management (AOM)**, 37 pages.
 * Zhang, H., Vorobeychik, Y., Letchford, J., and Lakkaraju, K. (2014). Predicting rooftop solar adoption using agent-based modeling. **AAAI Fall Symposium on Energy Market Prediction**, 8 pages.
+* Clark, D.B., Killingsworth, S.S., Martinez-Garza, M., Eaton, G.V., Biswas, G., Kinnebrew, J.S., Sengupta, P., Krinks, K., Adams, D., ​Zhang, H. ​ and Hughes, J. (2013). Digital games and science learning: design principles and processes to augment commercial game design conventions. ** ​AIED 2013 Workshop on Scaffolding in Open-Ended Learning Environments (OELEs)**​, 8 pages.
 
 ## Working Papers
 ---
-* Zhang, H., Ren, Y. and Kraut, R. Mining and predicting temporal patterns in the quality evolution of Wikipedia articles. **Information Systems Research (ISR)**, _in preparation for 2nd round review_.
-* Zhang, H., Ren, Y., Kraut, R. and Costa, E. How Did They Build the Free Online Encyclopedia: A Behavioral Review of Wikipedia Editor Collaboration. _Under final preparation to be submitted to_ **ACM Computing Surveys**.
-* Zhang, H., Ren, Y. and Kraut, R. Deciphering the recursive relationships between quality and crowd size in online open collaboration. _Work in Progress_.
-* Zhang, H., Ren, Y. and Kraut, R. Unpacking the impact of anti-vandalism tools on Wikipedia collaboration: an agent-based analysis. _Work in Progress_.
+* Zhang, H. ​, Kraut, R. and Ren, Y. NPOV or POV? Predicting editorial bias in Wikipedia. _Work in Progress_.
+* Zhang, H. ​, Kraut, R. and Ren, Y. Modeling user contribution in peer production. ​_Work in Progress_.
+* Zhang, H. ​, Ren, Y. and Kraut, R. Unpacking the impact of anti-vandalism tools in Wikipedia with agent-based simulation. ​_Work in Progress_​.
+* Zhang, H. ​, Kraut, R. and Ren, Y. Predicting crowd participation in open knowledge production. _To be submitted for ​conference ​review_.
+* Ren, Y., ​Zhang, H. ​, Kraut, R. How Did Volunteer Editors Build the Free Online Encyclopedia: key insights and future directions. _Under final preparation to be submitted to_ **ACM Computing Surveys (CSUR)**.
+* Zhang, H. ​, Ren, Y. and Kraut, R. Mining and Predicting Temporal Patterns in the Quality Evolution of Wikipedia Articles._Under ​ conference ​review_.
+* Zhang, H. ​, Ren, Y. and Kraut, R. Disentangling the Interplay among Article Quality, Crowd Size and Article Nomination in Wikipedia. _Under ​ conference ​review_.
+* Zhang, H. ​, Ren, Y. and Kraut, R. Mining and predicting temporal patterns in the quality evolution of Wikipedia articles. ​**Information Systems Research (ISR​)**​, _in preparation for 2nd round review_.
+
 
 
