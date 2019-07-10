@@ -26,7 +26,7 @@ author_profile: true
 * Zhang, H., Ren, Y. and Kraut, R. (2018). Deciphering the recursive relationships between quality and crowd size in online open collaboration. **Workshop on Information Systems and Economics (WISE)**, 6 pages.
 * Zhang, H., Ren, Y. and Kraut, R. (2018). Mining and predicting temporal patterns in the quality evolution of Wikipedia articles. **Academy of Management (AOM)**, 37 pages.
 * Zhang, H., Vorobeychik, Y., Letchford, J., and Lakkaraju, K. (2014). Predicting rooftop solar adoption using agent-based modeling. **AAAI Fall Symposium on Energy Market Prediction**, 8 pages.
-* Clark, D.B., Killingsworth, S.S., Martinez-Garza, M., Eaton, G.V., Biswas, G., Kinnebrew, J.S., Sengupta, P., Krinks, K., Adams, D., ​Zhang, H. ​ and Hughes, J. (2013). Digital games and science learning: design principles and processes to augment commercial game design conventions. ** ​AIED 2013 Workshop on Scaffolding in Open-Ended Learning Environments (OELEs)**​, 8 pages.
+* Clark, D.B., Killingsworth, S.S., Martinez-Garza, M., Eaton, G.V., Biswas, G., Kinnebrew, J.S., Sengupta, P., Krinks, K., Adams, D., ​Zhang, H. ​ and Hughes, J. (2013). Digital games and science learning: design principles and processes to augment commercial game design conventions. **​AIED 2013 Workshop on Scaffolding in Open-Ended Learning Environments (OELEs)**​, 8 pages.
 
 ## Working Papers
 ---
