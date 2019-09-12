@@ -7,13 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-## Journal Publications
+## Publications
 ---
 * Zhang, H., & Vorobeychik, Y. (2017). Empirically grounded agent-based models of innovation diffusion: a critical review. **Artificial Intelligence Review**, 1-35.
 * Zhang, H., Vorobeychik, Y., Letchford, J., & Lakkaraju, K. (2016). Data-driven agent-based modeling, with application to rooftop solar adoption. **Autonomous Agents and Multi-Agent Systems**, 30(6), 1023-1049.
-
-## Conference Papers
----
 * Zhang, H. ​, Ren, Y. and Kraut, R. (2020) Mining and Predicting Temporal Patterns in the Quality Evolution of Wikipedia Articles. **Hawaii International Conference on System Sciences (HICSS)**.
 * Zhang, H., Vorobeychik, Y. and Procaccia, A. (2017). Multi-channel marketing with budget complementarities. **International Conference on Autonomous Agents and Multiagent Systems (AAMAS)**, 1232-1240.
 * Zhang, H. and Vorobeychik, Y. (2016). Submodular optimization with routing constraints. **AAAI Conference on Artificial Intelligence (AAAI)**, 819-825.
@@ -21,7 +18,7 @@ author_profile: true
 * Zhang, H., Procaccia, A., and Vorobeychik, Y. (2015). Dynamic influence maximization under increasing returns to scale. **International Conference on Autonomous Agents and Multiagent Systems (AAMAS)**, 513-521. **(Best Paper Award Finalist)**
 * Zhang, H. (2015) Data-driven agent-based modeling of innovation diffusion. **International Conference on Autonomous Agents and Multiagent Systems (AAMAS)**, 2009-2010.
 
-## Workshop Papers
+## Workshops
 ---
 * Zhang, H., Ren, Y. and Kraut, R. (2018). Identifying and Predicting Temporal Patterns in the Quality Evolution of Wikipedia Articles. **Workshop on Information Systems and Economics (WISE)**, 6 pages.
 * Zhang, H., Ren, Y. and Kraut, R. (2018). Deciphering the recursive relationships between quality and crowd size in online open collaboration. **Workshop on Information Systems and Economics (WISE)**, 6 pages.
