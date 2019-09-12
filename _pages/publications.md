@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Publications
+## Journals&Conferences
 ---
 * Zhang, H., & Vorobeychik, Y. (2017). Empirically grounded agent-based models of innovation diffusion: a critical review. **Artificial Intelligence Review**, 1-35.
 * Zhang, H., Vorobeychik, Y., Letchford, J., & Lakkaraju, K. (2016). Data-driven agent-based modeling, with application to rooftop solar adoption. **Autonomous Agents and Multi-Agent Systems**, 30(6), 1023-1049.
