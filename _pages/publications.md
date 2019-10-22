@@ -31,9 +31,9 @@ author_profile: true
 * Zhang, H. ​, Kraut, R. and Ren, Y. NPOV or POV? Predicting editorial bias in Wikipedia. _Work in Progress_.
 * Zhang, H. ​, Kraut, R. and Ren, Y. Modeling user contribution in peer production. ​_Work in Progress_.
 * Zhang, H. ​, Ren, Y. and Kraut, R. Unpacking the impact of anti-vandalism tools in Wikipedia with agent-based simulation. ​_Work in Progress_​.
-* Zhang, H. ​, Kraut, R. and Ren, Y. Predicting crowd participation in open knowledge production. _Under ​conference ​review_.
+* Zhang, H. ​, Kraut, R. and Ren, Y. Predicting crowd participation in open knowledge production. _Under ​​review_.
 * Ren, Y., ​Zhang, H. ​, Kraut, R. How Did Volunteer Editors Build the Free Online Encyclopedia: key insights and future directions. _Under final preparation to be submitted to_ **ACM Computing Surveys (CSUR)**.
-* Zhang, H. ​, Ren, Y. and Kraut, R. Disentangling the Interplay among Article Quality, Crowd Size and Article Nomination in Wikipedia. _Under ​ conference ​review_.
+* Zhang, H. ​, Ren, Y. and Kraut, R. Disentangling the Interplay among Article Quality, Crowd Size and Article Nomination in Wikipedia. _Under ​ ​review_.
 * Zhang, H. ​, Ren, Y. and Kraut, R. Mining and predicting temporal patterns in the quality evolution of Wikipedia articles. ​**Information Systems Research (ISR​)**​, _in preparation for 2nd round review_.
 
 
